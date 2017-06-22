@@ -3,7 +3,7 @@
 - quick start
 
 ``` bash
-git clone https://github.com/wangdahoo/vonic-webpack-starter.git
+git clone https://github.com/jack-hoo/JokerApp.git
 cd vonic-webpack-starter
 npm install -g yarn
 yarn
